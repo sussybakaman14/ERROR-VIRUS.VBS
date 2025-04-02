@@ -1,1 +1,1 @@
-# ERROR-VIRUS.VBS
+a little simple prank virus for everyone :)
